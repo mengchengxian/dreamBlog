@@ -1,0 +1,1 @@
+import{_ as t,p as c,q as r,R as e,t as o}from"./framework-5866ffd3.js";const n={},a=e("h1",{id:"intorduce",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#intorduce","aria-hidden":"true"},"#"),o(" intorduce")],-1),d=[a];function s(i,_){return c(),r("div",null,d)}const h=t(n,[["render",s],["__file","introduce.html.vue"]]);export{h as default};
