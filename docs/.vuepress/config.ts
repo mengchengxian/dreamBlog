@@ -33,6 +33,6 @@ export default defineUserConfig({
                 ],
             },
         ],
-        repo: 'https://github.com/dongyuanwai/learnjts',
+        repo: 'https://github.com/mengchengxian/dreamBlog',
     }),
 })
