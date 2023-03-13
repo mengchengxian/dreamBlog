@@ -4,7 +4,7 @@ export default defineUserConfig({
     lang: 'zh-CN',
     title: 'vue3学习博客',
     description: 'vue3和ts学习记录',
-    head: [['link', { rel: 'icon', href: '/images/logo.webp' }]],
+    head: [['link', { rel: 'icon', href: '/dreamBlog/images/logo.webp' }]],
     //新增导航条的配置
     theme: defaultTheme({
         // tab栏的图标; 图片 / 会自动去public文件夹里找图片
