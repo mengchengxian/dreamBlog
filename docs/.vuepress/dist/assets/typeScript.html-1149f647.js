@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-33f7c06a","path":"/pages/study/typeScript.html","title":"typeScript","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1678714049000,"contributors":[{"name":"梦                           成仙","email":"3256132136@qq.com","commits":1}]},"filePathRelative":"pages/study/typeScript.md"}');export{t as data};

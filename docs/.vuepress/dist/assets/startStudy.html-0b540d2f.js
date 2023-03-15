@@ -1,1 +1,0 @@
-import{_ as e,p as a,q as s,R as t,t as r}from"./framework-5866ffd3.js";const c={},d=t("h1",{id:"startstudy",tabindex:"-1"},[t("a",{class:"header-anchor",href:"#startstudy","aria-hidden":"true"},"#"),r(" startStudy")],-1),o=[d];function n(_,i){return a(),s("div",null,o)}const h=e(c,[["render",n],["__file","startStudy.html.vue"]]);export{h as default};
