@@ -33,7 +33,7 @@ export default defineUserConfig({
                             {
                                 text: '二.TypeScript 常用语法',
                                 collapsible: true,
-                                children: ['typescript/1_type', 'typescript/2_interface', 'typescript/3_class', 'typescript/4_function', 'typescript/5_generic', 'typescript/6_other']
+                                children: ['/pages/typescript/05-数据类型.md', '/pages/typescript/06-interface.md', '/pages/typescript/07-class.md', '/pages/typescript/08-function.md', '/pages/typescript/09-泛型.md', '/pages/typescript/10-其他.md']
                             }
                         ]
                     },
