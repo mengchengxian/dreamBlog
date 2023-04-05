@@ -1,0 +1,1 @@
+import{_ as t,p as _,q as a,R as e,t as c}from"./framework-5866ffd3.js";const r={},s=e("h1",{id:"_01-认识vue3",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_01-认识vue3","aria-hidden":"true"},"#"),c(" 01 认识Vue3")],-1),o=[s];function n(d,i){return _(),a("div",null,o)}const h=t(r,[["render",n],["__file","01_认识Vue3.html.vue"]]);export{h as default};

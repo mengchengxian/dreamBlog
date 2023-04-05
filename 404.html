@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="generator" content="VuePress 2.0.0-beta.61">
+    <style>
+      :root {
+        --c-bg: #fff;
+      }
+      html.dark {
+        --c-bg: #22272e;
+      }
+      html, body {
+        background-color: var(--c-bg);
+      }
+    </style>
+    <script>
+      const userMode = localStorage.getItem('vuepress-color-scheme');
+			const systemDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+			if (userMode === 'dark' || (userMode !== 'light' && systemDarkMode)) {
+				document.documentElement.classList.toggle('dark', true);
+			}
+    </script>
+    <link rel="icon" href="/dreamBlog/images/logo.webp"><title>vue3学习博客</title><meta name="description" content="vue3和ts学习记录">
+    <link rel="preload" href="/dreamBlog/assets/style-b3dbc5e6.css" as="style"><link rel="stylesheet" href="/dreamBlog/assets/style-b3dbc5e6.css">
+    <link rel="modulepreload" href="/dreamBlog/assets/app-f0904bb6.js"><link rel="modulepreload" href="/dreamBlog/assets/framework-5866ffd3.js"><link rel="modulepreload" href="/dreamBlog/assets/404.html-f9875e7b.js"><link rel="modulepreload" href="/dreamBlog/assets/404.html-87d54bd8.js"><link rel="prefetch" href="/dreamBlog/assets/index.html-dc78716d.js" as="script"><link rel="prefetch" href="/dreamBlog/assets/typescript学习笔记.html-70fe744a.js" as="script"><link rel="prefetch" href="/dreamBlog/assets/01_认识Vue3.html-0947f695.js" as="script"><link rel="prefetch" href="/dreamBlog/assets/index.html-b809455c.js" as="script"><link rel="prefetch" href="/dreamBlog/assets/typescript学习笔记.html-3527c95f.js" as="script"><link rel="prefetch" href="/dreamBlog/assets/01_认识Vue3.html-666af7c8.js" as="script">
+  </head>
+  <body>
+    <div id="app"><!--[--><div class="theme-container"><main class="page"><div class="theme-default-content"><h1>404</h1><blockquote>That&#39;s a Four-Oh-Four.</blockquote><a href="/dreamBlog/" class="">Take me home</a></div></main></div><!----><!--]--></div>
+    <script type="module" src="/dreamBlog/assets/app-f0904bb6.js" defer></script>
+  </body>
+</html>
