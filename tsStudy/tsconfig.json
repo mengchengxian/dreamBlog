@@ -1,5 +1,0 @@
-{
-    "compilerOptions": {
-      "strict": false, // 严格的检查，默认是false
-    },
-  }

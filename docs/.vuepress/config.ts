@@ -19,22 +19,7 @@ export default defineUserConfig({
                     {
                         text: 'TypeScript',
                         children: [
-                            {
-                                text: '一.初识 TypeScript',
-                                collapsible: true,
-                                children: [
-                                    // 下级列表
-                                    '/pages/typescript/01_初识TS.md',
-                                    '/pages/typescript/02_安装TS.md',
-                                    '/pages/typescript/03_HelloWorld.md',
-                                    '/pages/typescript/04_webpack打包.md'
-                                ],
-                            },
-                            {
-                                text: '二.TypeScript 常用语法',
-                                collapsible: true,
-                                children: ['/pages/typescript/05-数据类型.md', '/pages/typescript/06-interface.md', '/pages/typescript/07-class.md', '/pages/typescript/08-function.md', '/pages/typescript/09-泛型.md', '/pages/typescript/10-其他.md']
-                            }
+                            '/pages/typescript/typeScript学习笔记.md',
                         ]
                     },
                     {
